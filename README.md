@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello! 👋
 
+Bio coming soon! 
+
+Find me here:
+  - [LinkedIn](https://www.linkedin.com/in/kalynkoy/)
 <!--
 **kalyn-k/kalyn-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
