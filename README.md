@@ -3,7 +3,7 @@
 I am a recent University of Oregon graduate with a keen eye for detail and a passion for computer technologies, data sciences, and analytics. Eager to apply my meticulous approach to drive success in emerging tech-driven industries.
 
 ## Find Me Here
-
+<a href="https://www.linkedin.com/in/kalynkoy">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 ## My Languages
