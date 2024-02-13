@@ -14,9 +14,8 @@ I am a recent University of Oregon graduate with a keen eye for detail and a pas
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+<!--  ![Kalyn Koyanagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalyn-k&theme=radical&show_icons=true)
 
-## ![Kalyn Koyanagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalyn-k&theme=radical&show_icons=true)
-<!--
 **kalyn-k/kalyn-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
