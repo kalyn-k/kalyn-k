@@ -1,6 +1,6 @@
 ### Hello! I'm Kalyn Koyanagi 👋
 
-Bio coming soon! 
+I am a recent University of Oregon graduate with a keen eye for detail and a passion for computer technologies, data sciences, and analytics. Eager to apply my meticulous approach to drive success in emerging tech-driven industries.
 
 ## Find Me Here
 
