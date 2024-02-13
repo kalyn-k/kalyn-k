@@ -15,7 +15,7 @@ I am a recent University of Oregon graduate with a keen eye for detail and a pas
 </p>
 
 
-![Kalyn Koyanagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalyn-k&theme=radical&show_icons=true)
+## ![Kalyn Koyanagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalyn-k&theme=radical&show_icons=true)
 <!--
 **kalyn-k/kalyn-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
